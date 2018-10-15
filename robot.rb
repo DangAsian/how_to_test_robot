@@ -52,15 +52,15 @@ class Robot
     @vintage_model = new_val
   end
 
-  def todos 
+  def todos
     @todos
   end
 
   def todos=(new_val)
     @todos = new_val
-  end
+  e
 
-  def day_off 
+  def day_off
     @day_off
   end
 
